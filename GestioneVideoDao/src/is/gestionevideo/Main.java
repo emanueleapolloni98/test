@@ -36,6 +36,8 @@ public class Main {
 			data_evento = LocalDate.of(2019, Month.AUGUST, 31);
 		
 			VideoEvento v2 = new VideoEvento(nome_evento, data_evento, Sport.CALCIO);
+			
+			VideoEvento v7 = new VideoEvento("Partita Porcodio - Diocane",LocalDate.of(2019, Month.DECEMBER, 21),Sport.CALCIO);
 
 
 		
