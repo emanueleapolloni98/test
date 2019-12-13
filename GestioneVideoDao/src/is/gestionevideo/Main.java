@@ -59,7 +59,7 @@ public class Main {
 		
 			v4.addGiornalista(new Giornalista("TIZIO", "CAIO"));
 			v4.addGiornalista(new Giornalista("PIPPO", "PLUTO"));
-
+			VideoEvento v8 = new VideoEvento("Partita Parma - Juve",LocalDate.of(2019,Month.APRIL,24),Sport.CALCIO);
 		
 		
 		
